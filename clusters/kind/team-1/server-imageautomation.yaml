@@ -31,7 +31,7 @@ metadata:
   name: server
   namespace: team-1
 spec:
-  image: ghcr.io/eddiezane/hello-flux/github.com/eddiezane/hello-flux/apps/team-1/server
+  image: ghcr.io/dangelo-fyi/hello-flux/github.com/dangelo-fyi/hello-flux/apps/team-1/server
   interval: 1m0s
 ---
 apiVersion: image.toolkit.fluxcd.io/v1beta2

@@ -15,7 +15,7 @@ metadata:
   name: on-call-webapp
   namespace: flux-system
 spec:
-  summary: eddiezane
+  summary: dangelo-fyi
   providerRef:
     name: slack
   eventSeverity: info
