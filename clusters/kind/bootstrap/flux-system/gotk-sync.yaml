@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/dangelo-fyi/hello-flux-2.0
+  url: ssh://git@github.com/eddiezane/hello-flux
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta2
 kind: Kustomization
